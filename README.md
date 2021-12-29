@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+<!---![Gear](https://user-images.githubusercontent.com/96828736/147669440-ffb2ff33-64ca-4efe-b6cd-f98a43cda952.png)
+
 ParasNK30/ParasNK30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
